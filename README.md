@@ -17,4 +17,4 @@
 
 [Leetcode](https://leetcode.com/kokomyoheinhtet/)
 
-[CodeSignal](https://app.codesignal.com/profile/ko_ko_myo__h)
+[CodeSignal](https://app.codesignal.com/profile/kokomyoheinhtet)
