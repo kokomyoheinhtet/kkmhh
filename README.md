@@ -1,8 +1,8 @@
 # Ko Ko Myo Hein Htet
 ## About me
-- 📍 Originally from 🇲🇲Myanmar, living in 🇹🇭Bangkok, Thailand for almost 10 years
+- 📍 Originally from Myanmar🇲🇲, living in Bangkok, Thailand🇹🇭 for almost 10 years
 - 👨‍💻 Been in Software industry for 6+ years
-- 🗣 Speaks: English, Thai, Burmese, Mandarin
+- 🗣 Speaks: English, Thai, Burmese, Chinese (Mandarin)
 
 ## Tech stack
 - Currently improving in Go
